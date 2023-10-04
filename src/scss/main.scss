@@ -1,0 +1,15 @@
+
+// Импорт вендоров
+
+@import './vendor/normalize';
+
+
+// Импорт базовых стилей
+@import './base/variables';
+@import './base/mixins';
+@import './base/settings';
+@import './base/typography';
+
+// Импорт компонент
+
+@import './components/pugs';
